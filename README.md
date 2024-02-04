@@ -18,3 +18,6 @@ Download ```metrics_pynvml.py``` into the directory where the virtual environmen
 ```
 python metrics_pynvml.py
 ```
+<div align="center">
+  <img src="https://github.com/BBC-Esq/Nvidia_Gpu_Monitor/blob/main/v1.png" alt="Example Image">
+</div>
