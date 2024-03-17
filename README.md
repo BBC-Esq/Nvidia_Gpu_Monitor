@@ -1,6 +1,6 @@
 # Nvidia_Gpu_Monitor
 Realtime Monitor of Nvidia GPU Metrics with NVML Library
-
+* Make sure you have CUDA installed.
 (1)
 
 pip install the libraries in the ```requirements.txt```
